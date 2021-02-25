@@ -1008,3 +1008,7 @@ a[data-role="button"] {
 .infoText {
 	font-size: 22px;
 }
+
+.itemName.parentNameLast {
+	font-size: 32px;
+}
