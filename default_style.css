@@ -1014,5 +1014,9 @@ a[data-role="button"] {
 }
 
 .itemMiscInfo {
-    font-size: 22px;
+	font-size: 22px;
+}
+
+.detail-clamp-text {
+	font-size: medium;
 }
