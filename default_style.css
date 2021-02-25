@@ -1012,3 +1012,7 @@ a[data-role="button"] {
 .itemName.parentNameLast {
 	font-size: 32px;
 }
+
+.itemMiscInfo {
+    font-size: 22px;
+}
