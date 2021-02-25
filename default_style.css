@@ -1000,7 +1000,11 @@ a[data-role="button"] {
 /*Títulos*/
 
 .itemName {
-    margin: .5em 0;
-    font-weight: 600;
-    font-size: 32px;
+	margin: .5em 0;
+	font-weight: 600;
+	font-size: 32px;
+}
+
+.infoText {
+	font-size: 22px;
 }
